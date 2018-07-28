@@ -1,2 +1,4 @@
 github.com/donnol/module v1.0.0 h1:QnwKQVgcfyWQ6NIKwz3cNK/z/ykZs6uIu3n7GL33qnw=
 github.com/donnol/module v1.0.0/go.mod h1:0UjY+o53N0dGC9c4PDeDBtrkYr6KPz5ugIqOYHITVdY=
+github.com/donnol/module3 v0.1.0 h1:tdsWkNwONEOFbMecaAbQoKPOE+QkD0umGQsbG/6vYq4=
+github.com/donnol/module3 v0.1.0/go.mod h1:WVV6+CbAt5rP3c1m86htcXORphCmrBzTEL9ueog0p7c=
